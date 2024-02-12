@@ -8,3 +8,6 @@ Los clientes podrán pedir como mucho un préstamo pero estos pueden ser pedidos
 De los prestamos interesará guardar el id, el dia limite del plazo para pagar dicho préstamo, la cantidad y el id del cliente que solicite dicho préstamo.
 Cada cliente tiene que abrir una cuenta aunque podrá abrir varias, mientras que las cuentas pueden ser abiertas por varios  clientes ya que mas de un cliente puede ser titular de una misma cuenta. De las cuentas guardaremos el código de cuenta, la cantidad de la que dispondrá la cuenta,, si la cuenta tiene tarjeta física o no y el PIN de la tarjeta en caso de que esta exista.
 Los clientes pueden realizar transacciones desde sus cuentas, de las que interesa guardar el id, el tipo de transacción( pudiendo ser solamente transacciones de prestamos, activos, intereses o alquiler) y la cantidad de la transacción. Además interesa guardar la fecha en la que se realiza dicha transacción.
+
+### Resultado en diseñador phpMyAdmin
+![Captura de pantalla 2024-02-12 172609](https://github.com/E7OY/entidadesBancarias/assets/102689282/8626a494-69d8-4f83-8212-adab1a3a0c15)
